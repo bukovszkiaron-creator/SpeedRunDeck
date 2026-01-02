@@ -8,6 +8,7 @@ Screenshot of the schematic
 <img width="1059" height="876" alt="image" src="https://github.com/user-attachments/assets/4e538f4a-af11-42f0-87e1-9dfc60985962" />
 
 Screenshot of the PCB
+
 <img width="691" height="642" alt="image" src="https://github.com/user-attachments/assets/5d0bca9a-788c-45a9-9cf1-6b394560a018" />
 
 
